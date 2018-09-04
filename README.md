@@ -4,6 +4,6 @@
 这里实用lua来实现一些小功能，实现方式有很多，这里只不过提供另外的一种方式
 
 目录：
-* [redis+lua验证码.md](/redis+lua验证码)
+* [redis+lua验证码](/redis+lua验证码.md)
 
 
