@@ -5,5 +5,5 @@
 
 目录：
 * [redis+lua验证码](/redis+lua验证码.md)
-
+* [redis+lua请求频率](/redis+lua请求频率.md)
 
