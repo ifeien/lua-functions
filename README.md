@@ -67,4 +67,5 @@ return "0"
 返回值：
 * “1”：验证码正确
 * “0”：验证码错误
+
 这里不使用true和false的原因是lua和redis之间数据转换的问题， Lua 的布尔值 false 转换成 Redis 的 Nil bulk 回复
