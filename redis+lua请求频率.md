@@ -31,7 +31,7 @@ return "0"
 
 输入参数：
 * key    redis的KEY
-* count  限定但是时间内的请求数
+* count  限定单位时间内的请求数
 * expire 单位时间-秒
 
 返回值：
